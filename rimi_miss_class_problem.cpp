@@ -228,22 +228,4 @@ output : 1,2,3,0,0
 //     // cout<<"0->"<<count<<endl;
 
 // }
-
-/*9.find  the leader elements
-A leader element in ana array is greater than all the elements to its rigth. find all leader elements 
-input:16,17,4,3,5,2
-output: 17,15,2*/
-#include <bits/stdc++.h>
-using namespace std;
-#define ass return 0
-#define ll long long
-#define dd double
-int main(){
-    int arr[]={16,17,4,3,5,2};
-    int n= sizeof(arr)/sizeof(arr[0]);
-    
-    int right = .....
-    
-    
-
-}
+//fjf
